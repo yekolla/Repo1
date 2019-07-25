@@ -1,0 +1,21 @@
+git add .
+
+git commit -m "adding latest files"
+
+git push .
+
+git status
+
+git config --global user.name "yekolla"
+
+git config --global user.emailid "gireesh975@gmail.com"
+
+git remote add origin https://github.com/yekolla/gitlearning.git (If any issue occurs execute the below command).
+
+git remote rm origin
+
+git remote --list
+
+git push origin master
+
+
